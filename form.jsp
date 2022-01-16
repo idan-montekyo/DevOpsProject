@@ -8,7 +8,6 @@ null && request.getParameter("email")
  == null) { %>     
 <CENTER>     
 <H2>User Info Request Form</H2>
-<H3>Please fill in the cells below</H3>
 <FORM METHOD="GET" ACTION="/status/form.jsp">     
 <P>     
 Your name: <input type="text" name=
